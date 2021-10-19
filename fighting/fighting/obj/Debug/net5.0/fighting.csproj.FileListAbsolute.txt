@@ -1,0 +1,16 @@
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\fighting.exe
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\fighting.deps.json
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\fighting.runtimeconfig.json
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\fighting.runtimeconfig.dev.json
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\fighting.dll
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\ref\fighting.dll
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\bin\Debug\net5.0\fighting.pdb
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.csproj.AssemblyReference.cache
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.AssemblyInfoInputs.cache
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.AssemblyInfo.cs
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.csproj.CoreCompileInputs.cache
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.dll
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\ref\fighting.dll
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.pdb
+C:\Users\torell.jordan\Documents\Programering1\fighting\fighting\fighting\obj\Debug\net5.0\fighting.genruntimeconfig.cache
